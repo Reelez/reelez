@@ -5,11 +5,7 @@
 
 
 
-
-
-- 🌱 I’m currently learning **Python and Data Base**
-
-- 📫 How to reach me **randolphjr27@gmail.com**
+- 📫 How to reach me **relezjr27@gmail.com**
 
 - ⚡ Fun fact **If you see me in person, Im always listening music and dancing.**
 
